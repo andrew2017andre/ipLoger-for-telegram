@@ -1,0 +1,5450 @@
+Friday 6th of September 2019 06:15:33 PM
+Connecting from:
+	176.120.119.241 (176.120.119.241)
+Source port:
+	17589
+Referer:
+	http://answay.ga/log.txt
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36 OPR/63.0.3368.53
+User agent decoded:
+	Opera 63.0.3368/Windows 10
+Language:
+	ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Timezone and Data (client side):
+	GMT: 3,  Date: Fri Sep 06 2019 18:15:32 GMT+0300 (Москва, стандартное время)
+Found addresses:
+	192.168.133.253 (192.168.133.253)
+	176.120.119.241 (176.120.119.241)
+Web-proxy:
+	Unknown (answay.ga) 
+IPv6:
+	2001:0:53aa:64c:34b9:1495:4f87:880e	
+
+ 
+
+
+
+Friday 6th of September 2019 06:22:01 PM
+Connecting from:
+	176.120.119.241 (176.120.119.241)
+Source port:
+	18003
+Referer:
+	http://answay.ga/5d72776d7a729
+Redirect to:
+	https://ukr.net
+User agent:
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36 OPR/63.0.3368.53
+User agent decoded:
+	Opera 63.0.3368/Windows 10
+Language:
+	ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Timezone and Data (client side):
+	GMT: 3,  Date: Fri Sep 06 2019 18:22:00 GMT+0300 (Москва, стандартное время)
+Found addresses:
+	192.168.133.253 (192.168.133.253)
+	176.120.119.241 (176.120.119.241)
+Web-proxy:
+	Unknown (answay.ga) 
+IPv6:
+	2001:0:53aa:64c:34b9:1495:4f87:880e	
+
+ 
+
+
+
+Friday 6th of September 2019 06:22:52 PM
+Connecting from:
+	176.120.119.241 (176.120.119.241)
+Source port:
+	18065
+Referer:
+	http://answay.ga/5d7279c3b9c58
+Redirect to:
+	https://ukr.net
+User agent:
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36 OPR/63.0.3368.53
+User agent decoded:
+	Opera 63.0.3368/Windows 10
+Language:
+	ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Timezone and Data (client side):
+	GMT: 3,  Date: Fri Sep 06 2019 18:22:51 GMT+0300 (Москва, стандартное время)
+Found addresses:
+	192.168.133.253 (192.168.133.253)
+	176.120.119.241 (176.120.119.241)
+Web-proxy:
+	Unknown (answay.ga) 
+IPv6:
+	2001:0:53aa:64c:34b9:1495:4f87:880e	
+
+ 
+
+
+
+Friday 6th of September 2019 06:25:34 PM
+Connecting from:
+	176.120.119.241 (176.120.119.241)
+Source port:
+	18212
+Referer:
+	http://answay.ga/5d727a5a1a714
+Redirect to:
+	https://ukr.net
+User agent:
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36 OPR/63.0.3368.53
+User agent decoded:
+	Opera 63.0.3368/Windows 10
+Language:
+	ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Timezone and Data (client side):
+	GMT: 3,  Date: Fri Sep 06 2019 18:25:33 GMT+0300 (Москва, стандартное время)
+Found addresses:
+	192.168.133.253 (192.168.133.253)
+	176.120.119.241 (176.120.119.241)
+Web-proxy:
+	Unknown (answay.ga) 
+IPv6:
+	2001:0:53aa:64c:34b9:1495:4f87:880e	
+
+ 
+
+
+
+Friday 6th of September 2019 06:31:50 PM
+Connecting from:
+	178.133.24.149 (178-133-24-149.mobile.vf-ua.net)
+Source port:
+	32557
+Referer:
+	http://answay.ga/5d727a5a1a714
+Redirect to:
+	https://ukr.net
+User agent:
+	Mozilla/5.0 (Linux; Android 9; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User agent decoded:
+	Chrome Mobile 76.0.3809/Android 9
+Language:
+	ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+Timezone and Data (client side):
+	GMT: 3,  Date: Fri Sep 06 2019 18:31:50 GMT+0300 (Восточная Европа, летнее время)
+Found addresses:
+	10.6.37.95 (10.6.37.95)
+	178.133.24.149 (178-133-24-149.mobile.vf-ua.net)
+Web-proxy:
+	Unknown (answay.ga) 
+IPv6:
+	 
+
+
+
+Friday 6th of September 2019 09:34:41 PM
+Connecting from:
+	128.124.18.122 (128-124-18-122.mobile.vf-ua.net)
+Source port:
+	55255
+Referer:
+	http://answay.ga/5d72a6945334d
+Redirect to:
+	https://ukr.net
+User agent:
+	Mozilla/5.0 (Linux; Android 9; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User agent decoded:
+	Chrome Mobile 76.0.3809/Android 9
+Language:
+	ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6
+Timezone and Data (client side):
+	GMT: 3,  Date: Fri Sep 06 2019 21:34:39 GMT+0300 (Восточная Европа, летнее время)
+Found addresses:
+	10.68.158.181 (10.68.158.181)
+	128.124.18.122 (128-124-18-122.mobile.vf-ua.net)
+Web-proxy:
+	Unknown (answay.ga) 
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 04:54:57 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	49609
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; GWX:DOWNLOADED)
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 04:55:01 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	49614
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; GWX:DOWNLOADED)
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 04:57:03 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	49899
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; GWX:DOWNLOADED)
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 04:57:04 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	49904
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; GWX:DOWNLOADED)
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:03:07 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51242
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:03:08 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51246
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:07:10 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51454
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:07:11 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51455
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:09:12 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51463
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:09:13 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51464
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:11:14 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51748
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:11:15 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51750
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:13:16 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52036
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:13:17 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52037
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:15:18 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52049
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:15:19 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52050
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:17:20 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52062
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:17:21 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52063
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:19:23 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52072
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:19:24 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52073
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:23:25 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52593
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:23:26 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52594
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:25:28 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52623
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:25:28 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52624
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:33:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	53168
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:33:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	53171
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:47:38 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	55144
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:47:39 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	55145
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:49:40 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	55153
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:49:41 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	55154
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:53:43 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	55654
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:53:43 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52464
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:59:46 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52562
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 05:59:47 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52563
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:03:49 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	52996
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:03:50 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	53002
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:05:51 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56539
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:05:52 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56540
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:09:53 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56571
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:09:54 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56572
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:11:56 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56659
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:11:56 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56664
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:13:58 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56998
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:13:58 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57001
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:16:00 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57127
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:16:01 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57128
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:18:02 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57139
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:18:02 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57141
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:22:04 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57987
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:22:05 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	57991
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:24:06 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58304
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:24:07 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58310
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:26:08 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58429
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:26:09 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58430
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:28:10 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58443
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:28:11 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58444
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:30:12 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58455
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:30:13 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58456
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:32:14 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58555
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:32:15 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	58557
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:36:17 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59018
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:36:18 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59019
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:38:19 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59032
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:38:20 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59033
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:44:25 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59455
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:44:26 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59467
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:50:29 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59639
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:50:30 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	59640
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:54:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60020
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:54:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60023
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:56:34 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60187
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:56:34 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60188
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:58:36 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60202
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 06:58:37 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60203
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:00:38 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60218
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:00:39 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60219
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:02:40 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60237
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:02:41 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60243
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:04:42 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60591
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:04:43 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60592
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:06:44 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60756
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:06:45 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60757
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:10:47 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60805
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:10:47 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60806
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:12:49 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60829
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:12:49 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	60830
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:14:51 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61166
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:14:51 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61172
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:18:53 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61383
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:18:54 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61384
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:20:55 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61394
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:20:56 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61395
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:24:58 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61725
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:24:59 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61731
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:29:01 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61968
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:29:02 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61969
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:31:03 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61979
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:31:04 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	61980
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:41:07 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56063
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:41:08 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56064
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:43:09 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56072
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:43:10 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56073
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:45:12 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56081
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:45:13 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56082
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:47:14 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56091
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:47:15 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56092
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:49:16 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56104
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:49:17 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56105
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:53:18 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56133
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:53:19 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56134
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:57:21 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56153
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 07:57:22 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56154
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:01:24 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56173
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:01:25 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56174
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:05:27 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56206
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:05:27 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56207
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:07:29 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56226
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:07:30 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56227
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:09:31 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56232
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:09:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56234
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:11:33 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56242
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:11:34 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	56243
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:15:35 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63083
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:15:36 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63084
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:17:38 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63099
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:17:38 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63100
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:19:40 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63108
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:19:40 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63109
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:21:42 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63128
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:21:42 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63129
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:31:46 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51699
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:31:47 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	51700
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:37:50 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63933
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:37:51 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63934
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:41:53 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63955
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:41:57 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63956
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:46:00 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63981
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:46:00 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63982
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:48:02 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63993
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:48:03 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	63994
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:54:05 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64020
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:54:06 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64021
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:56:07 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64040
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:56:08 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64042
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:58:09 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64051
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 08:58:15 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64052
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:00:17 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64062
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:00:18 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64063
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:04:20 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64086
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:04:21 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64087
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:06:22 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64092
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:06:23 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64093
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:10:25 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64124
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:10:26 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64126
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:14:27 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64142
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:14:28 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64143
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:16:29 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64154
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:16:30 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64155
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:18:31 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64163
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:18:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64164
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:22:34 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64186
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:22:35 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64187
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:26:37 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64215
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:26:38 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64216
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:28:39 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64224
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:28:40 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64226
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:30:41 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64235
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:30:42 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64236
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:32:43 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64244
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:32:44 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64245
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:36:46 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64271
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:36:47 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64274
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:38:48 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64286
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:38:49 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64287
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:40:50 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64295
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:40:51 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64296
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:42:52 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64304
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:42:53 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64306
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:46:55 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64334
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:46:55 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64335
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:50:57 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64362
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 09:50:58 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64363
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:01:02 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64416
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:01:03 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64417
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:05:05 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64442
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:05:06 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64443
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:07:07 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64451
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:07:08 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64452
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:09:09 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64457
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:09:10 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64458
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:11:11 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64466
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:11:12 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64467
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:15:14 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64501
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:15:15 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64502
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:19:17 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64518
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:19:17 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64519
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:23:19 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64537
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:23:20 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64538
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:25:21 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64544
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:25:22 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64545
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:27:23 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64565
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:27:24 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64566
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:33:27 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64596
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:33:27 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64597
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:35:29 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64605
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:35:29 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64606
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:37:32 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64615
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:37:33 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64616
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:41:35 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64645
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:41:36 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64646
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:43:37 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64656
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:43:38 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64657
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:47:40 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64675
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:47:41 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64677
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:49:42 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64685
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:49:42 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64687
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:53:44 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64715
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:53:45 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64717
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:57:47 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64736
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
+Saturday 7th of September 2019 10:57:48 AM
+Connecting from:
+	72.141.10.188 (CPEf0f24907bec3-CMf0f24907bec0.cpe.net.fido.ca)
+Source port:
+	64737
+Referer:
+	
+Redirect to:
+	
+User agent:
+	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User agent decoded:
+	IE 11.0/Windows 7
+Language:
+	
+Timezone and Data (client side):
+	GMT: ,  Date: 
+Found addresses:
+Web-proxy:
+IPv6:
+	 
+
+
+
