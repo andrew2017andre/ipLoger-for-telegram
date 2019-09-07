@@ -2,6 +2,16 @@
 
 define('BOT_TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
+define('WEBHOOK_URL', 'https://answay.ga/bot/index.php');
+
+$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106");
+
+$apikeyBitly = 'e4b7a239c18f84723888a6275f316df4158ebfba';
+$loginBitly = 'qweweqwe';
+	
+$content = file_get_contents("php://input");
+$update = json_decode($content, true);
+
 
 function apiRequestWebhook($method, $parameters) {
   if (!is_string($method)) {
@@ -160,7 +170,8 @@ function processMessage($message) {
 
 //---
 function checkRights($message) {
-	$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106");
+	//$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106");
+	global $array_id;
 	$user_id = $message['from']['id'];
 	$chat_id = $message['chat']['id'];
 	
@@ -172,8 +183,6 @@ function checkRights($message) {
 }
 //---
 
-define('WEBHOOK_URL', 'https://answay.ga/bot/index.php');
-
 if (php_sapi_name() == 'cli') {
   // if run from console, set or delete webhook
   apiRequest('setWebhook', array('url' => isset($argv[1]) && $argv[1] == 'delete' ? '' : WEBHOOK_URL));
@@ -181,8 +190,7 @@ if (php_sapi_name() == 'cli') {
 }
 
 
-$content = file_get_contents("php://input");
-$update = json_decode($content, true);
+
 
 if (!$update) {
   // receive wrong update, must not happen
@@ -226,25 +234,24 @@ if (isset($update["callback_query"])) {
 	}
 	
 	else if ($res[0] > 2){
-	$apikey = 'e4b7a239c18f84723888a6275f316df4158ebfba';
-	$login = 'qweweqwe';
-	
-	apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Ваша ссылка для отслеживания № #' . urlencode ($res[2])));	
-	switch($res[0]){
-		case '3':
-			$finalurl = json_decode(file_get_contents("https://api-ssl.bitly.com/v3/shorten?access_token=" . $apikey . "&login=" . $login. "&longUrl=" . urlencode ($res[1])), true)[data][url];
-			apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $finalurl ));
-			break;
-		case '4':
-			$finalurl = file_get_contents('http://tinyurl.com/api-create.php?url=' . $res[1]);
-			apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $finalurl));
-			break;
-		case '5':
-			apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $res[1]));
-			break;
-		default:
-			break;
-		}
+		global $apikeyBitly, $loginBitly;
+		
+		apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Ваша ссылка для отслеживания № #' . urlencode ($res[2])));	
+		switch($res[0]){
+			case '3':
+				$finalurl = json_decode(file_get_contents("https://api-ssl.bitly.com/v3/shorten?access_token=" . $apikeyBitly . "&login=" . $loginBitly. "&longUrl=" . urlencode ($res[1])), true)[data][url];
+				apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $finalurl ));
+				break;
+			case '4':
+				$finalurl = file_get_contents('http://tinyurl.com/api-create.php?url=' . $res[1]);
+				apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $finalurl));
+				break;
+			case '5':
+				apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => $res[1]));
+				break;
+			default:
+				break;
+			}
 	}
 }
 ?>
