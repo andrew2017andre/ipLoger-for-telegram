@@ -4,11 +4,12 @@ define('BOT_TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 define('WEBHOOK_URL', 'https://answay.ga/bot/index.php');
 
-$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106");
+$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106", "428289199", "411098624");
 
 $apikeyBitly = 'e4b7a239c18f84723888a6275f316df4158ebfba';
 $loginBitly = 'qweweqwe';
-	
+$url = 'https://answay.ga';
+
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
 
@@ -135,17 +136,61 @@ function processMessage($message) {
 
     if (strpos($text, "/start") === 0) {
 //      apiRequestJson("sendMessage", array('chat_id' => $chat_id, "text" => 'Выберите способ сокращения', 'reply_markup' => array(
-//        'inline_keyboard' => [[array("text"=>"Ужатый, с рендерингом","callback_data"=>"/1"),array("text"=>"Полный, без рендеринга","callback_data"=>"/2")]],
+//        'inline_keyboard' => [[array("text"=>"Ужатый, с рендерингом","callback_data"=>"/1"),array("text"=>"Полный (возможны проблемы с рендерингом)","callback_data"=>"/2")]],
 //        'one_time_keyboard' => true,
 //        'resize_keyboard' => true)));
 //	if (strpos($text, "/start") === 0) {
-	  apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Введите ссылку для редиректа, (должна начинаться с http/https)'));
+	  apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Введите ссылку для редиректа, (должна начинаться с http/https)', 'reply_markup' => array(
+        'keyboard' => array(array('Получить докумен Word для отслеживания')),
+        'one_time_keyboard' => true,
+        'resize_keyboard' => true)));
+		
 //    } else if ($text === "Hello" || $text === "Hi") {
 //		apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Nice to meet you'));
 //	} else if ($text === "Вставте ссылку") {
 //    	apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Введите ссылку для редиректа'));
 
-	  //74V5bA47q4JH
+
+
+//---markupButton---
+//		apiRequestJson("sendMessage", array('chat_id' => $chat_id,  'reply_markup' => array(
+//        'keyboard' => array(array('Hello', 'Hi')),
+//        'one_time_keyboard' => true,
+//       'resize_keyboard' => true)));
+//---
+
+	} else if ($text === 'Получить докумен Word для отслеживания') {
+		
+		global $url;
+		
+		$uni = uniqid();
+		$file = fopen("../redirect/w" . $uni . ".txt", "w");
+		fwrite($file, '"' . $url . "/bot/word/1.png" . '"' . "\n" );
+		fwrite($file, $chat_id);
+		fclose($file);
+	
+		$xml = simplexml_load_file('./word/_rels/document.xml.rels');
+		$xml->Relationship[1]['Target'] = $url . "/w" . $uni;
+		$xml->asXml('./word/_rels/document.xml.rels');
+		exec("zip ./word/word.docx ./word/_rels/document.xml.rels");
+		$xml->Relationship[1]['Target'] = "...";
+		$xml->asXml('./word/_rels/document.xml.rels');
+
+		apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Ваша документ для отслеживания № #' . urlencode ('w'. $uni)));
+		
+		$filepath = realpath("./word/word.docx");
+		$post = array('chat_id' => $chat_id,'document' => '@'.$filepath);
+		$ch = curl_init(API_URL . 'sendDocument');  
+		curl_setopt($ch, CURLOPT_POST, 1);  
+		curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($ch, CURLOPT_HEADER, false);
+		curl_exec($ch);
+		curl_close($ch);
+		
+//---		
+//---
+//---
     } else if (filter_var($text, FILTER_VALIDATE_URL)) {
 		$uni = uniqid();
 		$file = fopen("../redirect/" . $uni . ".txt", "w");
@@ -154,7 +199,7 @@ function processMessage($message) {
 		fclose($file);
 		
 		apiRequestJson("sendMessage", array('chat_id' => $chat_id, "text" => 'Выберите способ сокращения', 'reply_markup' => array(
-        'inline_keyboard' => [[array("text"=>"Ужатый, с рендерингом","callback_data"=>"1::" . $uni),array("text"=>"Полный, без рендеринга","callback_data"=>"2::" . $uni)]],
+        'inline_keyboard' => [[array("text"=>"Ужатый, с рендерингом","callback_data"=>"1::" . $uni),array("text"=>"Полный","callback_data"=>"2::" . $uni)]],
         'one_time_keyboard' => true,
         'resize_keyboard' => true)));
 
@@ -170,7 +215,6 @@ function processMessage($message) {
 
 //---
 function checkRights($message) {
-	//$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106");
 	global $array_id;
 	$user_id = $message['from']['id'];
 	$chat_id = $message['chat']['id'];
@@ -203,21 +247,22 @@ if (isset($update["message"])) {
 }
 
 if (isset($update["callback_query"])) {
+	global $url;
 	//$message_id = $update["callback_query"]["message"]['message_id'];
 	$chat_id = $update["callback_query"]["message"]['chat']['id'];
 	$res = explode("::",$update["callback_query"]['data']);
 	
 	if ($res[0] <= 2){
-		$url = 'http://answay.ga/';
+		$url = 'http://answay.ga';
 		switch($res[0]){
 		case '1':
-			$url .= 'r' . $res[1];
+			$url .= '/r' . $res[1];
 			rename("../redirect/" . $res[1] . ".txt", "../redirect/r" . $res[1] . ".txt");	
 			$res[1] = 'r' . $res[1];
 			break;
 		case '2':
 		rename("../redirect/r" . $res[1] . ".txt", "../redirect/" . $res[1] . ".txt");	
-			$url .= $res[1];
+			$url .= '/' . $res[1];
 			break;
 		default:
 			break;
@@ -234,7 +279,7 @@ if (isset($update["callback_query"])) {
 	}
 	
 	else if ($res[0] > 2){
-		global $apikeyBitly, $loginBitly;
+		global $apikeyBitly, $loginBitly, $url;
 		
 		apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Ваша ссылка для отслеживания № #' . urlencode ($res[2])));	
 		switch($res[0]){
