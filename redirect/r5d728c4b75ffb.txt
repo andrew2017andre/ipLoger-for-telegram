@@ -1,2 +1,0 @@
-"https://marketplace.visualstudio.com/search?term=django&target=vscode&category=all%20categories&sortby=downloads"
-81334264
