@@ -5,7 +5,7 @@ date_default_timezone_set("Europe/Kiev");
 require_once 'vendor/autoload.php';
 use UAParser\Parser;
 
-define('TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A', true);
+define('TOKEN', '...', true);
 
 	$filename = trim( explode('?', $_SERVER['REQUEST_URI'], 2)[0], "/");
 	$redirectid = trim(trim(file("./redirect/" . $filename . ".txt")[0]), '"');
