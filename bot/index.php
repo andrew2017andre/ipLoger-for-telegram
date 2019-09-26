@@ -1,14 +1,14 @@
 <?php
 
-define('BOT_TOKEN', '615799996:AAHE-PXAcmLClqHUbnYmWqYByUj8MyEba5A');
+define('BOT_TOKEN', '...');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
-define('WEBHOOK_URL', 'https://answay.ga/bot/index.php');
+define('WEBHOOK_URL', 'https://"..."/bot/index.php');
 
-$array_id = array("341876831", "117403635", "654753898", "172090089", "213126876", "81334264", "482147557", "341876831", "535244118", "252957106", "428289199", "411098624");
+$array_id = array("...", "...", "...", "...", "...", "...", "...", "...", "...", "...");
 
-$apikeyBitly = 'e4b7a239c18f84723888a6275f316df4158ebfba';
-$loginBitly = 'qweweqwe';
-$url = 'https://answay.ga';
+$apikeyBitly = '...';
+$loginBitly = '...';
+$url = 'https://...';
 
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
